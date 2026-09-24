@@ -6,11 +6,11 @@ import DiscoverPals from "./(main)/discover-pals/page";
 export default function Home() {
   return (
     <div className="flex flex-col flex-1 items-center justify-center font-sans">
-      <Navbar />
+      {/* <Navbar />
       <main>
         <DiscoverPals />
       </main>
-      <Footer />
+      <Footer /> */}
     </div>
   );
 }
